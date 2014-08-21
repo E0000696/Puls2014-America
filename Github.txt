@@ -1,0 +1,32 @@
+FTP
+Transmision de archivos
+Hosting barato normal -->/public_html/ <--- FTP
+	index.php
+	images
+	leonidas.jpg
+www.dogrcoin.com
+
+SVN: subversion /mercurial / TFS/ CVS /GIT
+Github
+1. Red social de programadores
+2. Web/apps
+3. Facil
+
+====
+Repositorio de codigo GITHUB(master)
+1.Multiples versiones de codigo
+2.Cambios Delta (solo envia los bites modificados)
+GIT es una BD Atomica.
+3.Historial de cada archivo
+4. Multiples personas sobre el mismo archivo
+5. Culpa al culpable
+6. Ramas Branches
+	*master (github.com) Repo Principal
+	*master (DD) Repo local
+	*(servidor.com) Repo produccion
+
+	*Master (disco duro) Repo local
+		*master
+		MERGE (Experimental master)
+		*Experimental local
+7.Los proyectos son repositorios BD atomicas que se sincroniza con el sistema.		
