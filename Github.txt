@@ -4,7 +4,7 @@ Hosting barato normal -->/public_html/ <--- FTP
 	index.php
 	images
 	leonidas.jpg
-www.dogrcoin.com
+www.fuckyeah.com
 
 SVN: subversion /mercurial / TFS/ CVS /GIT
 Github
